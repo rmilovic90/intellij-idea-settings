@@ -1,0 +1,16 @@
+<application>
+  <component name="DiffSettings">
+    <option name="SHARED_SETTINGS">
+      <SharedSettings>
+        <option name="GO_TO_NEXT_FILE_ON_NEXT_DIFFERENCE" value="false" />
+      </SharedSettings>
+    </option>
+  </component>
+  <component name="TextDiffSettings">
+    <option name="SHARED_SETTINGS">
+      <SharedSettings>
+        <option name="CONTEXT_RANGE" value="8" />
+      </SharedSettings>
+    </option>
+  </component>
+</application>
